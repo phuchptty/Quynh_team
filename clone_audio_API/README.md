@@ -8,4 +8,4 @@ $end = limit
 -GET tên truyện và link truyện
 Method 'GET':https://audiovyvy.com/wp-api/api.php/content_audio?id_meta=$meta_id
 Hàm này được viết trong SQL với "meta_id=$id_meta"
-$meta_id là id trong bảng dữ liệu
+$meta_id là id trong bảng dữ liệu!
