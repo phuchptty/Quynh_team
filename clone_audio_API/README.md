@@ -1,4 +1,4 @@
-Get api từ trang Audiovyvy.com
+Get api từ trang Audiovyvy.com<br>
 Tất cả dữ liệu được xử lý trả về kiểu JSON
 -GET danh sách truyện:
 Method 'GET':https://audiovyvy.com/wp-api/api.php/list_audio?pages=$abc&end=$xyz
